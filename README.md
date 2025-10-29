@@ -5,7 +5,7 @@ A focused collection of data analysis and business intelligence projects showcas
 ## 📊 Featured Projects
 
 ### Business Intelligence & Dashboards
-- **Power BI Demo Project** - Custom dark-themed dashboard development with advanced data visualization techniques and automated reporting solutions
+- **[Power BI Cost Effectiveness Dashboard](./PowerBI_Demo/)** - Custom dark-themed dashboard featuring cost effectiveness analysis across three countries with advanced data visualization techniques
 
 ### Data Analysis & Visualization
 - **[Advanced Data Analyzer](./claudeskills/advanced-data-analyzer/)** - Custom AI-powered data analysis skill with automated insights generation and intelligent data processing capabilities
