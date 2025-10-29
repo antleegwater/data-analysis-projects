@@ -8,8 +8,8 @@ A focused collection of data analysis and business intelligence projects showcas
 - **[Power BI Cost Effectiveness Dashboard](./PowerBI_Demo/)** - Custom dark-themed dashboard featuring cost effectiveness analysis across three countries with advanced data visualization techniques
 
 ### Data Analysis & Visualization
-- **[Advanced Data Analyzer](./claudeskills/advanced-data-analyzer/)** - Custom AI-powered data analysis skill with automated insights generation and intelligent data processing capabilities
-- **[Madagascar Machine Learning for Targeting](./MadagAnalysis/PythonConversion/)** - **Work in Progress** - Converting Stata data analysis scripts to Python for health survey data processing and machine learning targeting models
+- **[Advanced Data Analyzer](./Advanced_Data_Analyzer/)** - Custom AI-powered data analysis skill with automated insights generation and intelligent data processing capabilities
+- **[Madagascar Machine Learning for Targeting](./Madagascar_ML_Targeting/)** - **Work in Progress** - Converting Stata data analysis scripts to Python for health survey data processing and machine learning targeting models
 
 ## 🛠️ Technical Skills
 
