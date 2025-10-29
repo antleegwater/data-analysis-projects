@@ -36,13 +36,13 @@ MiniProjects/
 ## 🤝 Connect
 
 - **GitHub**: [antleegwater](https://github.com/antleegwater)
-- **Portfolio**: [Your portfolio link here]
-- **LinkedIn**: [Your LinkedIn profile here]
+- **LinkedIn**: linkedin.com/in/anthony-leegwater
 
 ## 📝 License
 
 This repository contains data analysis and visualization projects. Please check individual project directories for specific licensing information.
 
 ---
+
 
 *Specializing in transforming raw data into actionable business intelligence through advanced visualization and automation techniques.*
