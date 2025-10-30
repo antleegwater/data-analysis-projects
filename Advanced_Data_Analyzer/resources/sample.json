@@ -1,5 +1,0 @@
-[
-  {"name": "Alice", "age": 25, "income": 50000, "city": "NYC"},
-  {"name": "Bob", "age": 30, "income": 60000, "city": "LA"},
-  {"name": "Charlie", "age": 35, "income": 70000, "city": "Chicago"}
-]
